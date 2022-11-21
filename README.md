@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World, I'm Joey Pothoff 👋
 
-<!--
-**joeypothoff/joeypothoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies and Tools
 
-Here are some ideas to get you started:
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeypothoff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
