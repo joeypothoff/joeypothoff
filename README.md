@@ -16,5 +16,3 @@
 ## 📖 Currently learning
 
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeypothoff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
