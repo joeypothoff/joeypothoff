@@ -1,4 +1,5 @@
-### Hello World, I'm Joey Pothoff 👋
+### Hello World 👋
+My name is Joey Pothoff and I'm a Full Stack Developer. I'm from The Netherlands and currently working for FreshPortal Software B.V.
 
 ## 💻 Technologies and Tools
 
